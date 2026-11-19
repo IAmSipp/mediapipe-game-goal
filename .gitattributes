@@ -1,0 +1,9 @@
+AGENTS.md export-ignore
+PROJECT_FORMAT.md export-ignore
+SKILL.md export-ignore
+.codex/ export-ignore
+.agents/ export-ignore
+system/docs/mediapipe-workshop-game/ export-ignore
+system/artifacts/ export-ignore
+.venv/ export-ignore
+**/__pycache__/ export-ignore
